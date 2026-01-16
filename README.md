@@ -73,57 +73,6 @@ Blockchain Bitcoin | Ethereum | Solana | Web3 | Smart Contract | Full Stack
 📌 **Repos:** [Backend](https://github.com/Benjamin-cup/heruneguardians-be) 
 
 ---
-
-### **🔷 Nyx Cipher (EVM & Solana)**
-
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/377f8819-d786-46e0-889b-6470457d0854">
-
-- AI-driven blockchain agent for trading & social intelligence
-
-- Integrates smart contracts with AI processing to optimize decisions
-
-- Amplifies productivity 10x, cuts research time by 90%  
-
-📌 **Live:** [nyxcipher.ai](https://nyxcipher.ai/)
-📌 **Repo:** [Backend](https://github.com/Benjamin-cup/nyx-cipher/backend)
-
----
-
-## 💎 EVM Projects
-
-### **🔷 Onchain-Experiments_V1(EVM)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5074e654-17ea-4331-863f-c83f2e287152">
-
-- this project is a fully on-chain, generative NFT platform where artwork, metadata, and logic are permanently generated and stored directly on the blockchain, without external servers, IPFS
-
-- 100% on-chain, generative NFT system where each token's image and metadata are generated in real-time using SVG code via smart contracts 
-
-- 📌 **Live:** [Onchain Experiments](https://www.onchainexperiments.xyz/)
-
-- 📌 **Repo:** [Backend](https://github.com/Benjamin-cup/onchain-experiments-v1)
-
-### **🔷 Yieldz Lending (Polygon)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
-
-- Multi-layered DeFi lending with real-yield mechanisms
-
-- Solidity 
-
-- 📌 **Live:** [yieldzprotocol.com](https://yieldzprotocol.com/)
-
-- 📌 **Repo:** [Backend](https://github.com/Benjamin-cup/360-Defi-SmartContract) / [Frontend](https://github.com/snowbeardo/Yieldz-Defi-Frontend)
-
-### **🔷 DigiMonkz (NFT Staking)**
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7524314b-0937-4fe6-b595-374c407077ae">
-
-- Web3 NFT staking platform, GEN111/GEN2 NFTs, artifact rewards
-
-- 📌 **Live:** [digimonkz.com](https://digimonkz.com/)
-
-- 📌 **Repo:** [Smart Contract](https://github.com/Benjamin-cup/DigiMonkz-Staking) / [Frontend](https://github.com/snowbeardo/DigiMokz-Frontend)
-
----
-
 ## 💜 Solana Projects
 
 ### **🟢 Luck.io (Fully Non-Custodial Solana Casino)**
@@ -209,7 +158,46 @@ Blockchain Bitcoin | Ethereum | Solana | Web3 | Smart Contract | Full Stack
 
 - 📌 **Repo:** [Smart Contracts](https://github.com/Benjamin-cup/SPLFaucetSmartContract)
 
+
+
 ---
+
+## 💎 EVM Projects
+
+### **🔷 Onchain-Experiments_V1(EVM)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/5074e654-17ea-4331-863f-c83f2e287152">
+
+- this project is a fully on-chain, generative NFT platform where artwork, metadata, and logic are permanently generated and stored directly on the blockchain, without external servers, IPFS
+
+- 100% on-chain, generative NFT system where each token's image and metadata are generated in real-time using SVG code via smart contracts 
+
+- 📌 **Live:** [Onchain Experiments](https://www.onchainexperiments.xyz/)
+
+- 📌 **Repo:** [Backend](https://github.com/Benjamin-cup/onchain-experiments-v1)
+
+### **🔷 Yieldz Lending (Polygon)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/e16d639e-3c84-4e90-ac47-889373b477b0">
+
+- Multi-layered DeFi lending with real-yield mechanisms
+
+- Solidity 
+
+- 📌 **Live:** [yieldzprotocol.com](https://yieldzprotocol.com/)
+
+- 📌 **Repo:** [Backend](https://github.com/Benjamin-cup/360-Defi-SmartContract) / [Frontend](https://github.com/snowbeardo/Yieldz-Defi-Frontend)
+
+### **🔷 DigiMonkz (NFT Staking)**
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7524314b-0937-4fe6-b595-374c407077ae">
+
+- Web3 NFT staking platform, GEN111/GEN2 NFTs, artifact rewards
+
+- 📌 **Live:** [digimonkz.com](https://digimonkz.com/)
+
+- 📌 **Repo:** [Smart Contract](https://github.com/Benjamin-cup/DigiMonkz-Staking) / [Frontend](https://github.com/snowbeardo/DigiMokz-Frontend)
+
+---
+
+
 
 ## 🔥 Bitcoin Projects
 
@@ -284,11 +272,14 @@ Blockchain Bitcoin | Ethereum | Solana | Web3 | Smart Contract | Full Stack
 
 Gmail: benjamin.bigdev@gmail.com
 
+Linkedin: [Milan Narkovic](https://www.linkedin.com/in/milan-narkovic-22336639a/)
+
 Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
 Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
-Linkedin: [Milan Narkovic](https://www.linkedin.com/in/milan-narkovic-22336639a/)
+
+
 ---
 
 ## 📜 License
